@@ -1,32 +1,102 @@
-Keyword Ref.	currently at quest.tsv 1-100			
-ko	en-new	en-x	ko-roma	ja-machine
+ko	en-ensata	en-pre	ko-roma	notes
 				
-구원자	x	Savior	guwonja 	救援者 
-캔버그	x	Cane Bug	kaenbeogeu 	ケンボグ 
-계시자	x	Revelator	gyesija 	
-스파르나스	x	Sparnas	seupaleunaseu	スパルナス
-바이보라	x	Vivora	baibola	
-레나	Lena	Lennar	lena	レナ
-헤느리카	Henrica	x	heneulika 	
-마법협회	Mage Society	Magical Association		
+구원자		Savior	guwonja 	what Laima calls the PC
+캔버그		Cane Bug	kaenbeogeu 	an npc's name?
+계시자		Revelator	gyesija 	the PC and other special people who communed with Laima
+바이보라		Vivora	baibola	someone's leader
+레나	Lena	Lennar	lena	npc?
+헤느리카	Henrica		heneulika 	npc?
 				
-[Goddesses]				
-라이마	x	Laima	laima	
-운명과 예지의 여신	Goddess of Fate and Wisdom	Goddess of Fate and Luck		
-가비야	x	Gabija	gabiya	
-				
-바카리네	x	Vakarine		
-				
-제미나	x	Zemyna		
-				
-아우슈리네	x	Ausrine		
-				
+[Goddesses]				see Baltic / Latvian / Lithuanian myth
+라이마		Laima	laima	ref: goddess of fate, ie. Moirae
+운명과 예지의 여신	Goddess of Fate and Wisdom	Goddess of Fate and Luck		kor file says fate and wisdom
+가비야		Gabija	gabiya	of fire and hearth
+바카리네		Vakarine		of the Evening Star
+제미나		Zemyna		of earth, ie. Mother Earth
+아우슈리네		Ausrine		of the Morning Star
 				
 [Events]				
-신수의 날 	Day of Austras / Day of Saules	Day of Divine Tree / Divine Day		
+신수의 날 	Day of Austras	Day of Divine Tree / Divine Day		needs a more sensible name
 				
-[Locations]				
-샤울레이	x	Siauliai		
+[Locations]				named after Lithuanian places
+클라페다 		Klaipeda		
+샤울레이		Siauliai		
+샤울레이 동쪽 숲 		East Siauliai Woods 		
+동쪽 숲		Eastern Woods		shorter name in dialogue, more casual?
 				
 [Bestiary]				
-부베	x	Vubbe	bube	
+스파르나스		Sparnas	seupaleunaseu	
+부베		Vubbe	bube	
+츄파카브라		Chupacabra		
+				
+[Key NPC]				
+직업의 마스터	Class Master	x		
+				
+[Misc NPC]				
+경계병	Lookout	Sentinel		
+				
+[Factions]				
+마법협회	Mage Society	Magical Association		
+클라페다 기사단	Klaipeda Knights	x		
+				
+[Classes]				
+검사	Sword Fighter	xxx		full category; non-Konglish term for all Swordsman types
+소드맨		Swordsman	sodeumaen 	First Class
+하이랜더		Highlander		a scottish person - actually a movie reference
+펠타스타		Peltasta	peltaseuta 	variant of ancient greek word Peltast - greek infantry
+하플라이트		Hoplite		a greek soldier
+센츄리온		Centurion		a roman officer
+바바리안		Barbarian		
+캐터프랙트		Cataphract		greek - heavy cavalry
+커세어		Corsair		fr: pirate
+도펠죌트너		Doppelsoeldner		de: converting ö to oe is standard writing convention
+로델레로		Rodelero		spanish trooper
+스콰이어		Squire		
+				
+궁수	Mage	xxx		non-Konglish term for the Wizard type
+위저드		Wizard	wijeodeu 	First Class
+파이로맨서		Pyromancer		
+크리오맨서		Cryomancer		
+사이코키노		Psychokino		
+알케미스트		Alchemist		
+소서러		Sorcerer		
+링커		Linker		
+크로노맨서		Chronomancer		
+네크로맨서		Necromancer		
+쏘마터지		Thaumaturge		
+엘레멘탈리스트		Elementalist		
+				
+궁수	Bowmen	xxx		non-Konglish term for the Archer type
+아처		Archer	acheo 	First Class
+헌터		Hunter		
+쿼렐슈터		Quarrelshooter		quarrel: middle english for crossbow bolt
+레인저		Ranger		
+새퍼		Sapper		
+우구시		Wugushi		ch: 巫蠱師 - lit. magical class
+하카펠	Hakkapel	Hackapell		fi: Hakkapeliitat - finnish light cavalry
+스카우트		Scout		
+로그		Rogue		
+슈바르츠라이터		Schwarzer Reiter		de: Black Rider, ie. horse rider
+플레처		Fletcher		
+				
+성직자	Clergy People / Ecclesiastic	xxx		non-Konglish term for the Cleric type
+클레릭		Cleric		First Class
+프리스트		Priest		
+크리비		Krivis		High Priest title for Romuva religion
+보코르		Bokor		priest of Voodoo religion
+드루이드		Druid		Celtic, it's complicated
+사두		Sadhu		Hindu ascetic or holy person
+딥디르비		Dievdirbys		lt: wood artisan of holy sculptures
+오라클		Oracle		
+몽크		Monk		
+파드너		Pardoner		Middle English: church official who sells indulgences
+팔라딘		Paladin		
+				
+[Base Attributes]				
+힘	Strength / Might	STR		
+체력	Constitution	CON		
+지능	Intelligence / Intellect	INT		
+정신	Spirit / Will / Resolve	SPR		
+민첩	Agility / Dexterity	DEX		
+				
+[Derived Attributes]				
