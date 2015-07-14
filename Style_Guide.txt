@@ -1,0 +1,30 @@
+last updated: 2015-07-10
+
+This is Ensata's grammar and style notes for the ToS-en translation.
+There is no official one, or else it's not really good enough for precise usage.
+
+------------------
+
+* Line breaks in dialogue are made by adding the {nl} tag. 
+	Add a space before it for readability.
+	Don't add a space after, or it will indent the text.
+
+* US English should be used. British English nouns might be used on a limited level for names.
+
+* This game is based on Lithuanian Mythology, which is part of the Baltic myth family. 
+	Try to avoid mixing it with Latvian mythology unless there's a good reason.
+	Some names will be a direct myth reference. Check the Keywords file.
+
+* NPC Names: 
+	For world-building, check for Lithuanian variants of a name and try to use that spelling.
+	Latvian names can be a second alternative.
+	Polish and Russian names are third.
+	
+* Writing & Editing
+	Avoid non-English alphabet and romanise foreign words. ie. Doppelsöldner -> Doppelsoeldner
+
+	A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
+	
+	Github's search function for browsing .tsv files will break if you do not close a " on the same line.
+	
+	Do not use Google Translate.
