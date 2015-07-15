@@ -1,14 +1,10 @@
 ko	en-ensata	en-previous	ko-romanised	notes
 				
 구원자		Savior	guwonja 	what Laima calls the PC
-캔버그		Cane Bug	kaenbeogeu 	an npc's name?
 계시자		Revelator	gyesija 	special people who communed with Laima
-바이보라		Vivora	baibola	someone's leader
-레나	Lena	Lennar	lena	npc?
-헤느리카	Henrica		heneulika 	npc?
 				
-[Goddesses]				see Baltic / Latvian / Lithuanian myth
-라이마		Laima	laima	ref: goddess of fate, ie. Moirae, not wisdom
+[Goddesses]				see Lithuanian myth
+라이마		Laima	laima	ref: goddess of fate - only fate, not wisdom
 운명과 예지의 여신	Goddess of Fate and Wisdom	Goddess of Fate and Luck		kor file says fate and wisdom
 가비야		Gabija	gabiya	of fire and hearth
 바카리네		Vakarine	bakaline 	of the Evening Star
@@ -16,7 +12,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 아우슈리네		Ausrine	ausyuline 	of the Morning Star
 				
 [Events]				
-신수의 날 	Day of Austras	Day of Divine Tree / Divine Day		needs a more sensible name
+신수의 날 	Day of blah	Day of Divine Tree / Divine Day		needs a more sensible name
 				
 [Locations]				named after Lithuanian places
 클라페다 		Klaipeda	keullapeda 	
@@ -27,16 +23,21 @@ ko	en-ensata	en-previous	ko-romanised	notes
 [Bestiary]				
 스파르나스		Sparnas	seupaleunaseu	
 부베		Vubbe	bube	
-츄파카브라		Chupacabra	chyupakabeula 	
+츄파카브라		Chupacabra	chyupakabeula 	Monster from modern american legend
 				
-[Key NPC]				
+[NPC Titles]				
 직업의 마스터	Class Master	x		
-				
-[Misc NPC]				
 경계병	xxx	Sentinel		border guard
 				
+[Misc NPC Names]				
+캔버그	Cyneburg	Cane Bug	kaenbeogeu 	an npc's name?
+바이보라		Vivora	baibola	someone's leader
+레나	Lena	Lennar	lena	npc?
+헤느리카	Henryka		heneulika 	npc?
+				
+				
 [Factions]				
-마법협회	Mage Society	Magical Association		
+마법협회	Mage Society	Magical Association		name length
 클라페다 기사단	Klaipeda Knights	x		
 				
 [Classes]				
