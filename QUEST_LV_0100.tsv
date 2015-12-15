@@ -6,7 +6,7 @@ QUEST_LV_0100_20150317_000005	$Ugh. Go away! Don't talk to me! We'll get caught 
 QUEST_LV_0100_20150317_000006	$What? Don't lie to me! I can smell the Vubbes from here.{nl}You can't fool an adult! Go away! Do not come near this barrel!
 QUEST_LV_0100_20150317_000007	$Fi... Finally! Has help arrived?{nl}Huh?! It's just a kid? What are you looking at? Close the lid and move along!{nl}
 QUEST_LV_0100_20150317_000008	$What's that paper you're holding? It looks familiar...{nl}Let me see that! What are you doing? Hey, there's an adult speaking to you!
-QUEST_LV_0100_20150317_000009	$This paper, it's mine! I'm never giving it away again!!{nl}It's.. not something you need - I'll just rip it apart. There.
+QUEST_LV_0100_20150317_000009	$This paper, it's mine! I'm never giving it away again!!{nl}It's... not something you need - I'll just rip it apart. There.
 QUEST_LV_0100_20150317_000010	$Sheesh, that's lame...
 QUEST_LV_0100_20150317_000011	$After all the goddesses had vanished, these dreams were one of the first things that came up.{nl}Maybe one of these people will be the one who brings the goddesses back.
 QUEST_LV_0100_20150317_000012	$Soldier Blak
@@ -207,8 +207,8 @@ QUEST_LV_0100_20150317_000206	$Village Aunt
 QUEST_LV_0100_20150317_000207	$You've come to save us? Right?
 QUEST_LV_0100_20150317_000208	$It's alright, We are going to be okay now!
 QUEST_LV_0100_20150317_000209	$Village Girl
-QUEST_LV_0100_20150317_000210	$Please save us. Please..
-QUEST_LV_0100_20150317_000211	$Please release me. Please..
+QUEST_LV_0100_20150317_000210	$Please save us. Please...
+QUEST_LV_0100_20150317_000211	$Please release me. Please...
 QUEST_LV_0100_20150317_000212	$Mr. Juan
 QUEST_LV_0100_20150317_000213	$I get furious whenever I see those Vubbes who ruined my hometown.{nl}That's why I want to help people like you who fight against the Vubbes.
 QUEST_LV_0100_20150317_000214	$I would have left already if this wasn't my hometown.{nl}Where on earth were all the Vubbes hiding before they crawled out?
@@ -242,7 +242,7 @@ QUEST_LV_0100_20150317_000241	Yes. After seeing Moody's report, I am confident t
 QUEST_LV_0100_20150317_000242	The soldiers on patrol found the place where Siaulambs' stolen goods are packed.{nl}How about we steal them for ourselves?{nl}Let's make it known that we're not as weak as they think.{nl}
 QUEST_LV_0100_20150317_000243	You should fight fire with fire.{nl}We will keep attacking until they fully realize that they've made a mistake.
 QUEST_LV_0100_20150317_000244	We're not going to suffer anymore.{nl}Thanks for your efforts.
-QUEST_LV_0100_20150317_000245	It will be Ziedo Pond.{nl}I heard there are many Siaulambs, so be careful.
+QUEST_LV_0100_20150317_000245	$The location is Ziedo Pond.{nl}I heard there are many Siaulambs, so be careful.
 QUEST_LV_0100_20150317_000246	I have not heard anything else about the bishop's dream.{nl}Sorry, I can't be of much help.
 QUEST_LV_0100_20150317_000247	$Klaipeda Guard Captain
 QUEST_LV_0100_20150317_000248	$Go ahead to Klaipeda.{nl}Commander Uska is waiting for you in Klaipeda Central Plaza.{nl}I heard the bishop also had a dream about the goddess... it appears to concern that day.
@@ -333,7 +333,7 @@ QUEST_LV_0100_20150317_000332	$Your next mission is to find the cause of the inc
 QUEST_LV_0100_20150317_000333	$Although the Miners' Village is in trouble, given that the situation has reached the Eastern Woods,{nl}we can't assure the safety of Klaipeda.{nl}We can just hope that Klaipeda is doing well.
 QUEST_LV_0100_20150317_000334	$Operations Officer
 QUEST_LV_0100_20150317_000335	$Were you sent by Aras?{nl}This is a piece of Vubbe clothing. Ah... I see...
-QUEST_LV_0100_20150317_000336	I think the Vubbes of the Miners' Village have made their way into the woods.{nl}Maybe that's the reason behind the abnormal surge in monsters too.{nl}
+QUEST_LV_0100_20150317_000336	$I think the Vubbes from the Miners' Village have made their way into the woods.{nl}Maybe that's also a reason behind the abnormal surge in monsters.{nl}
 QUEST_LV_0100_20150317_000337	$I better ask Aras to search for Vubbes in other regions too.{nl}In the meantime, I would like you to take a look at the upper areas.
 QUEST_LV_0100_20150317_000338	$We haven't searched the upper areas yet.{nl}Of course we should be sending troops, but I ask for your help as this is an urgent matter.
 QUEST_LV_0100_20150317_000339	$You saw a Vubbe Fighter but missed it?{nl}We also got a report of Vubbe Fighter appearing in the Southern area.{nl}
@@ -360,20 +360,20 @@ QUEST_LV_0100_20150317_000359	$If you find any clues, let the Operations Officer
 QUEST_LV_0100_20150317_000360	$The Miners' Village is in a dire situation.{nl}It's too late to organize the troops so please go ahead and support the Miners' Village.
 QUEST_LV_0100_20150317_000361	$They have low intelligence, but these monsters build groups and live as a community.{nl}They used to appear only occasionally in the deeper areas of the mines...{nl}Could they be expanding their forces?{nl}
 QUEST_LV_0100_20150317_000362	$Whatever the reason is, the Vubbes expanding their territory is a big problem.{nl}Monsters that lose their territory to the Vubbes will be forced to make their way into our base.
-QUEST_LV_0100_20150317_000363	It's a single road from here on so you'll be able to find the people easily.{nl}
+QUEST_LV_0100_20150317_000363	$It's a single road from here on so you'll be able to find the people easily.{nl}
 QUEST_LV_0100_20150317_000364	{memo X}Oh, let me give you some helpful information in return for your your help.{nl}The evidence of salvation that the Revelators are looking for can be found in the Closed Area.
-QUEST_LV_0100_20150317_000365	One thing, there's something that keeps bothering me.{nl}A vague feeling of something alien.
+QUEST_LV_0100_20150317_000365	$One thing, there's something that keeps bothering me.{nl}A vague feeling of something alien.
 QUEST_LV_0100_20150317_000366	$Miner
 QUEST_LV_0100_20150317_000367	$Thank you for saving us.{nl}It's like a dream to be saved by the Revelator.{nl}
 QUEST_LV_0100_20150317_000368	$The Closed Area?{nl}If you absolutely need to get in there, gather the mysterious stones that the Vubbes carry.{nl}The Crystal Wall should open when you insert enough stones to it.
 QUEST_LV_0100_20150317_000369	$I was collecting supplies to be sent to the Miners' Village, but the monsters stole them all.{nl}
-QUEST_LV_0100_20150317_000370	The supply boxes contain dangerous explosives and collecting them is not an easy task.
-QUEST_LV_0100_20150317_000371	They couldn't have gone far.{nl}It would have been better if it just exploded on the way.
+QUEST_LV_0100_20150317_000370	$The supply boxes contain dangerous explosives so collecting them will not be an easy task.
+QUEST_LV_0100_20150317_000371	$They couldn't have gone far.{nl}It would have been better if it just exploded on the way.
 QUEST_LV_0100_20150317_000372	$Mercenary Lindt
-QUEST_LV_0100_20150317_000373	Thank you again.{nl}I should return to my commander soon. I think I can return to him after I get some more rest.
-QUEST_LV_0100_20150317_000374	I knew you would.{nl}One more thing, the ground near the Closed Area is weak so the entrance has been blocked for a long time.{nl}
-QUEST_LV_0100_20150317_000375	The kidnapped people are veteran miners so they may know how to get in.{nl}Well then, may the blessings of the goddess be with you.
-QUEST_LV_0100_20150317_000376	It wasn't long ago.{nl}I felt a strange power while performing experiments in the Closed Area.{nl}It was different from the mana that we know but it was very warm.{nl}
+QUEST_LV_0100_20150317_000373	$Thank you again.{nl}I should return to my commander soon. I think I can return to him after I get some more rest.
+QUEST_LV_0100_20150317_000374	$I knew you would.{nl}One more thing, the ground near the Closed Area is weak so the entrance has been blocked for a long time.{nl}
+QUEST_LV_0100_20150317_000375	$The kidnapped people are veteran miners so they may know how to get in.{nl}Well then, may the blessings of the goddess be with you.
+QUEST_LV_0100_20150317_000376	$It wasn't long ago.{nl}I felt a strange power while performing experiments in the Closed Area.{nl}It was different from the mana that we know but it was very warm.{nl}
 QUEST_LV_0100_20150317_000377	{memo X}But some force did not allow me to approach, as if it had an owner already.{nl}A few days after the incident, the bishop dreamed about the evidence of salvation.{nl}
 QUEST_LV_0100_20150317_000378	{memo X}Perhaps the evidence of salvation is the force I felt...{nl}That's what I think.
 QUEST_LV_0100_20150317_000379	$All I see are monsters and we're out of supplies.{nl}I'm also curious how the battle situation is in Miners' Village.
@@ -388,15 +388,15 @@ QUEST_LV_0100_20150317_000387	$It's very important to study the monsters at time
 QUEST_LV_0100_20150317_000388	$I am certain that the Leaf Bugs at Uoros farm stole them.{nl}They have stolen from us before.
 QUEST_LV_0100_20150317_000389	Send my regards to the Guard Captain when you meet him.
 QUEST_LV_0100_20150317_000390	{memo X}$In order to test if your skills are good enough to enter the Miners Village,{nl}I need you to help us solve a problem we have.{nl}
-QUEST_LV_0100_20150317_000391	First, take back the farm from the Pokubus.{nl}This should be a fairly easy task.
-QUEST_LV_0100_20150317_000392	There seems to be a gap in the rock where you can insert something.
-QUEST_LV_0100_20150317_000393	Let's search Bulvjes Farm first.{nl}But don't chase them or something as it can be dangerous.
+QUEST_LV_0100_20150317_000391	$First, take back the farm from the Pokubus.{nl}This should be a fairly easy task.
+QUEST_LV_0100_20150317_000392	$There seems to be a gap in the rock where you can insert something.
+QUEST_LV_0100_20150317_000393	$Let's search Bulvjes Farm first.{nl}But don't chase them or something as it can be dangerous.
 QUEST_LV_0100_20150317_000394	$You're making me wonder if you're an envoy of the goddess.{nl}Anyway, the supply camp is located further below the farm.
 QUEST_LV_0100_20150317_000395	{memo X}
-QUEST_LV_0100_20150317_000396	The Crystal Mine has become infested with Vubbes, so be sure to stay together in groups of five.
-QUEST_LV_0100_20150317_000397	Equipment Merchant
-QUEST_LV_0100_20150317_000398	Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
-QUEST_LV_0100_20150317_000399	Monsters attack and steal from people who buy items from me. I think they know I can tell which items are good.{nl}I feel sorry for those who were attacked but it also proves that the items are worth it.
+QUEST_LV_0100_20150317_000396	$The Crystal Mine has become infested with Vubbes, so be sure to stay together in groups of five.
+QUEST_LV_0100_20150317_000397	$Equipment Merchant
+QUEST_LV_0100_20150317_000398	$Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
+QUEST_LV_0100_20150317_000399	$Monsters attack and steal from people who buy items from me. I think they know I can tell which items are good.{nl}I feel sorry for those who were attacked but it also proves that the items are worth it.
 QUEST_LV_0100_20150317_000400	$The monsters never raided Klaipeda, but with Sir Uska gone, it's hard to be at ease.{nl}You have you watch out for yourself at times like this.
 QUEST_LV_0100_20150317_000401	$I want to travel with a single weapon in hand like an adventurer... Yeah there's no way I could.
 QUEST_LV_0100_20150317_000402	$If you listen to the soldiers, they'll use terms only they can understand to make things sound complicated.{nl}But when I ask my soldier friend, he says it's not like they are talking about anything important.
@@ -494,7 +494,7 @@ QUEST_LV_0100_20150317_000493	$After the goddesses disappeared, the capital was 
 QUEST_LV_0100_20150317_000494	$Rodelero Master
 QUEST_LV_0100_20150317_000495	{memo X}
 QUEST_LV_0100_20150317_000496	$Squire Master
-QUEST_LV_0100_20150317_000497	$We are in chaos nowadays, but we used to live in honorable times before.{nl}Well.. that's all in the past now.
+QUEST_LV_0100_20150317_000497	$We are in chaos nowadays, but we used to live in honorable times before.{nl}Well... that's all in the past now.
 QUEST_LV_0100_20150317_000498	$Wizard Master
 QUEST_LV_0100_20150317_000499	$No matter how much magic talent you have, it all goes to waste unless you actively train it.
 QUEST_LV_0100_20150317_000500	$You must be brave in order to protect the kingdom.{nl}But for that bravery to be distinguishable from recklessness, your skills need to be adequate.
