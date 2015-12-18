@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
+UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
 UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
@@ -46,7 +46,7 @@ UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
 UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
 UI_20150317_000047	{@st41}Cancel
 UI_20150317_000048	{@st43}Black Market{/}
-UI_20150317_000049	Name of Book
+UI_20150317_000049	Book Name
 UI_20150317_000050	{@St59}Stop reading{/}
 UI_20150317_000051	{@st59}Previous Page{/}
 UI_20150317_000052	{@st59}Next Page{/}
@@ -73,7 +73,7 @@ UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}Game Settings{/}
-UI_20150317_000076	{@st64}Use your arrow keys to select a cell!
+UI_20150317_000076	{@st64}Use the arrow keys to select a cell!
 UI_20150317_000077	{@st43}Advancement Information {/}
 UI_20150317_000078	{@st43}Select Class
 UI_20150317_000079	Psychokinesist
@@ -459,7 +459,7 @@ UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
 UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
 UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use the Search Feature
+UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
 UI_20150317_000464	EXP Distribution
 UI_20150317_000465	Item Distribution
@@ -848,9 +848,9 @@ UI_20150317_000847	Enter a keyword to search
 UI_20150317_000848	All attribute values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
-UI_20150317_000851	$Log
+UI_20150317_000851	$Rogue
 UI_20150317_000852	{ol}Revision
-UI_20150317_000853	${ol}Log
+UI_20150317_000853	${ol}Rogue
 UI_20150317_000854	Class list
 UI_20150317_000855	XML Conversion
 UI_20150317_000856	{ol}Class name
@@ -951,8 +951,8 @@ UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Team Name{/}
 UI_20150317_000951	{@st59}Enter Team name {/}
 UI_20150317_000952	{memo X}{@st59}Save Team Name{/}
 UI_20150317_000953	Provisional Delete
-UI_20150317_000954	{@St59}Close Barrack Decorating{/}
-UI_20150317_000955	{@St43}Barrack Decorating{/}
+UI_20150317_000954	{@St59}Close Lodge Decorating{/}
+UI_20150317_000955	{@St43}Lodge Decorating{/}
 UI_20150317_000956	{@St41b}Theme{/}
 UI_20150317_000957	{@St41b}Item Arrangement{/}
 UI_20150317_000958	{@St41b}Name
