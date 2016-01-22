@@ -1,4 +1,4 @@
-﻿QUEST_LV_0100_20150317_000001	$Sentinel
+QUEST_LV_0100_20150317_000001	$Sentinel
 QUEST_LV_0100_20150317_000002	$If you choose to go to Klaipeda, I recommend taking the Shadow Forest Road.{nl}The deep woods are dangerous, so try to stay away from there if you can.
 QUEST_LV_0100_20150317_000003	$Man in Hiding
 QUEST_LV_0100_20150317_000004	$Fi... Finally! Has help arrived?{nl}Huh?! It's just a kid? Hey... Are there still Vubbes outside?
@@ -7000,18 +7000,18 @@ QUEST_LV_0100_20150714_006999	I will now leave to the goddesses.{nl}Thank you. T
 QUEST_LV_0100_20150714_007000	How's going?{nl}We can alleviate the strange energy in this region when we enhance the magic circle.
 QUEST_LV_0100_20150714_007001	{memo X}If I only had little more time...{nl}My documents... I can't leave them...
 QUEST_LV_0100_20150714_007002	{memo X}The objects are useless to me now...{nl}Okay. Maybe you... My documents at Dykyne Fork...
-QUEST_LV_0100_20150714_007003	I don't have regrets anymore... but, be careful about that man.
-QUEST_LV_0100_20150714_007004	$Let's see, while I am cleaning this...{nl}Sorry, but can you take care of the tablet at Gruitis Hall with the brush and rubbing tools I brought?
-QUEST_LV_0100_20150714_007005	Will be wandering when the string of the destiny disconnects...{nl}It must mean Goddess Laima... But there's a rumor that she appeared... It's complicated.
+QUEST_LV_0100_20150714_007003	$I have no regrets anymore, but... be careful about that man.
+QUEST_LV_0100_20150714_007004	$Let's see, while I am cleaning this...{nl}Pardon me. I'm going to give you a brush and rubbing tools, can you take care of the tablet at {nl}Gruitis Hall for me?
+QUEST_LV_0100_20150714_007005	To venture with a severed string of fate...{nl}It must be a message from Goddess Laima... But there's a rumor that she appeared... It's complicated.
 QUEST_LV_0100_20150714_007006	$When someone is born with a silver spoon in his mouth, life will be good for him.
-QUEST_LV_0100_20150714_007007	{nl}What, what the hell...
+QUEST_LV_0100_20150714_007007	$What, what the hell...
 QUEST_LV_0100_20150714_007008	$It's too soon to give up now.{nl}When I went to Vseio Cliffs, I saw one more tablet.{nl}
 QUEST_LV_0100_20150714_007009	$However, it seems that normal ink won't catch well on it due to the mosses.{nl}Craute Grass juice should solve that problem. But I forgot to bring some as I came back.
-QUEST_LV_0100_20150714_007010	$Don't assume all forecasts by oracles are predictions of the future.{nl}Sometimes, they could help us determine what's right and wrong in our lives.{nl}
-QUEST_LV_0100_20150714_007011	$Is it complex? Yes, but you will soon know.{nl}You will soon find clues about the very fabric that weaves together this interwined world.
-QUEST_LV_0100_20150714_007012	$When you get enough Craute Grass Juice, use it to rub off the mosses on the tablet at Vseio Cliffs.{nl}It is famous for having a smell that lures monsters...but my assistant here is strong, right?.
-QUEST_LV_0100_20150714_007013	$When you rub the grass juice on it, you should see the effects right away,{nl}but you should still let it sit for a while. The mosses will go away eventually.
-QUEST_LV_0100_20150714_007014	$It wasn't effective? I guess the moss isn't normal moss.{nl}Hmm. Then I guess I should go ask Vaidotas. There must be some way.
+QUEST_LV_0100_20150714_007010	$Don't assume that every forecasts by the oracles are predictions of the future.{nl}Sometimes, they simply help us determine what's right and wrong in our lives.{nl}
+QUEST_LV_0100_20150714_007011	$Sound complicated? Yes, but soon you'll understand.{nl}You will be able to discover traces of the thread that weaves together this interwined world.
+QUEST_LV_0100_20150714_007012	$When you get enough Craute Grass Juice, spread it on the mosses on the tablet at Vseio Cliffs.{nl}It is famous for having a smell that lures monsters...but my assistant should be a great assistance.
+QUEST_LV_0100_20150714_007013	$When you spread the grass juice on it, you should see the effects right away,{nl}but you should still let it sit for a while. The mosses will go away eventually.
+QUEST_LV_0100_20150714_007014	$It wasn't effective? I guess the moss isn't normal moss.{nl}Hmm. Then I guess I should go ask Vaidotas. There must be some other way.
 QUEST_LV_0100_20150714_007015	$Alright then I'll be going now. {nl}Oh, can I ask you to get bone powder from the monsters here?{nl}I need something that helps ink adhere well.
 QUEST_LV_0100_20150714_007016	$Fortunately, Vaidotas gave me something nice.{nl}He said to use this special ink with the bone-powder adhesive.
 QUEST_LV_0100_20150714_007017	$Okay. I want you to get the last rubbing with this.{nl}My legs ache since I traveled so far...
@@ -7019,19 +7019,19 @@ QUEST_LV_0100_20150714_007018	$I have a good feeling about this one.{nl}Do you t
 QUEST_LV_0100_20150714_007019	$The world for the dead of the dead should also exist
 QUEST_LV_0100_20150714_007020	{nl}Dead of the dead? This... This may be just the forecast I was looking for.{nl}
 QUEST_LV_0100_20150714_007021	$I should do more research on this forecast. {nl}Thank you so much!
-QUEST_LV_0100_20150714_007022	While I am interpreting this, I will give you the rope with a magnet so please go to the well with that.{nl}I saw a Metal Plate on the floor. If that's the plate, it will come up after being attached.
-QUEST_LV_0100_20150714_007023	There's no strange reason.{nl}The people used to live here even before the empire was built here.{nl}
-QUEST_LV_0100_20150714_007024	A small village becomes a big village and then a city...{nl}And then it will be forgotten.
-QUEST_LV_0100_20150714_007025	I told you a while ago, but if possible, I would have pulled it out.{nl}Please beware of the surroundings near you.
-QUEST_LV_0100_20150714_007026	Difficult, difficult...{nl}The words are hard to understand.
-QUEST_LV_0100_20150714_007027	I guess it was the Metal Plate.{nl}It was lucky that the well was dried... If not, it could have been horrible.{nl}
-QUEST_LV_0100_20150714_007028	I will organize them and show you later.{nl}You are the Revelator. They will help your journey to find the goddesses.
-QUEST_LV_0100_20150714_007029	It seems that the Metal Plates that you've brought can't be worked due to the rusts.{nl}Why did they record on the Metal Plate...
-QUEST_LV_0100_20150714_007030	In fact, I didn't know what this Metal Plate was.{nl}Since this place is the hometown of Demetrius, I came here expecting something may be present.{nl}
-QUEST_LV_0100_20150714_007031	Nothing was engraved on it, rather it was full of rusts.
-QUEST_LV_0100_20150714_007032	At then, my eyes were ignited with flame.{nl}Demetrius has something to tell you.
-QUEST_LV_0100_20150714_007033	Yes. Now is not the time to just complain. First, I should make the rust remover.{nl}I want you to obtain the inner core of Hallowventor Magician.
-QUEST_LV_0100_20150714_007034	Defeat the rusts with the rust remover and maintain it with the anticorrosive agent. {nl}If it weren't you, I wouldn't have done it.
+QUEST_LV_0100_20150714_007022	$I'm going to give you this rope with a magnet attached to it. Please go to the well while I interpret {nl}this. I think I saw something that looked like the Metal Plate on the floor of the well.{nl}If that's the plate, please draw it out of the well and return back here. 
+QUEST_LV_0100_20150714_007023	$There's no particular reason.{nl}People have lived here even before the empire was built.{nl}
+QUEST_LV_0100_20150714_007024	$A small village becomes a big village, then a city...{nl}And finally it will be forgotten.
+QUEST_LV_0100_20150714_007025	$I told you a while ago, if it's there, please draw it out.{nl}Also be careful of your surroundings.
+QUEST_LV_0100_20150714_007026	$Difficult, difficult...{nl}The words are hard to understand.
+QUEST_LV_0100_20150714_007027	$I guess it was the Metal Plate.{nl}Fortunately the well was dry... it would've suck if it wasn't.{nl}
+QUEST_LV_0100_20150714_007028	$I will organize them and show you later.{nl}You are the Revelator. They will help your journey to find the goddesses.
+QUEST_LV_0100_20150714_007029	$It seems that the Metal Plates that you've brought can't be worked due to the rusts.{nl}Why did they record stuff on the metal plates...
+QUEST_LV_0100_20150714_007030	$Actually, I didn't know anything about this Metal Plate.{nl}I came here because I felt that something was missing, given that this is the hometown of {nl}Demetrius.{nl}
+QUEST_LV_0100_20150714_007031	$Something appears to be engraved on it, but it's covered by rusts. {nl}Perhaps the monsters can help restore the writing. Let's use monster fluid to make the records{nl}stand out from the Metal Plate.
+QUEST_LV_0100_20150714_007032	Back then, I had a spark in my eyes.{nl}Demetrius has something to tell you.
+QUEST_LV_0100_20150714_007033	$Yes. Now is not the time to complain. First, I should make the rust remover.{nl}I want you to obtain the inner core of Hallowventor Magician.
+QUEST_LV_0100_20150714_007034	Remove the rusts with the rust remover and maintain it with the anticorrosive agent. {nl}If it weren't you, I wouldn't have done it.
 QUEST_LV_0100_20150714_007035	Fast indeed.{nl}Okay. I will make the acidic solution with this. It will become the basis of the rust remover.
 QUEST_LV_0100_20150714_007036	Secondly, when we sprinkle the rust powders, some monsters react.{nl}Collect some boiling liquid from that monster. A lot of it.
 QUEST_LV_0100_20150714_007037	Ah. If you sprinkle it too much, it may endure all the monsters nearby.{nl}
@@ -9317,7 +9317,7 @@ QUEST_LV_0100_20151001_009316	{memo X}Look for the diary of the soldiers of Rukl
 QUEST_LV_0100_20151001_009317	What you heard from the old manager are suspicious. Talk to the old manager.
 QUEST_LV_0100_20151001_009318	Move to the battlefield of the fortress of the great earth
 QUEST_LV_0100_20151001_009319	{memo X}Talk to Premier Eminent after moving to the fortress of the great earth
-QUEST_LV_0100_20151001_009320	Irmantas who is a member of Peretory Hills needs someone's help.
+QUEST_LV_0100_20151001_009320	Irmantas who is a member of Feretory Hills needs someone's help.
 QUEST_LV_0100_20151001_009321	Defeat the one who chased Irmantas
 QUEST_LV_0100_20151001_009322	As Irmantas shot the signal bomb, the chasers appeared. Defeat the chasers and protect Irmantas.
 QUEST_LV_0100_20151001_009323	You've defeated all the chasers. Talk to Irmantas
@@ -9337,7 +9337,7 @@ QUEST_LV_0100_20151001_009336	Reached the dead end
 QUEST_LV_0100_20151001_009337	You can hear some voice calling out for you somewhere
 QUEST_LV_0100_20151001_009338	Hand over the goods to Irmantas
 QUEST_LV_0100_20151001_009339	Hand over the goods to Irmantas which Grazina requested to you.
-QUEST_LV_0100_20151001_009340	Grazina asked you to look for Illina. Irmantas saw her from down there so go meet Illina at the region below.
+QUEST_LV_0100_20151001_009340	Grazina asked you to look for Alina. Irmantas saw her from down there so go meet Alina at the region below.
 QUEST_LV_0100_20151001_009341	Alina told you that there is some important facts which she should tell Irmantas. Talk to Alina again.
 QUEST_LV_0100_20151001_009342	Alina asked you to defeat the monsters nearby so she can run away.
 QUEST_LV_0100_20151001_009343	You have defeated the monsters nearby so Alina can run away. Return to Alina.
@@ -10623,7 +10623,7 @@ QUEST_LV_0100_20151022_010622	Fight the monsters at Apsimesti Crossroads while i
 QUEST_LV_0100_20151022_010623	You've overcame the extreme hardship. Report back to Barabrian Sub Master.
 QUEST_LV_0100_20151102_010624	As a cleric, the best way to approach goddesses is to serve others.{nl}If you help me heal the soldiers at the Miner's Village, I will gladly help you back.
 QUEST_LV_0100_20151102_010625	Good work.{nl}I may not be of much help but I will do my best to lead you closer to the goddess.
-QUEST_LV_0100_20151102_010626	Brilliant.{nl}You've completed the assignment. When you are ready, let's begin the Elementalist lesson.QUEST_LV_0100_20151102_010627	$The forces of evil will never reach the goddess' revelation.
+QUEST_LV_0100_20151102_010626	Brilliant.{nl}You've completed the assignment. When you are ready, let's begin the Elementalist lesson.QUEST_LV_0100_20151102_010627
 QUEST_LV_0100_20151102_010628	$If you're worried for your safety, I will also give you this Romuva Holy Water.{nl}When you drink this water, you will be invisible to the demons for a short time.
 QUEST_LV_0100_20151102_010629	Welcome! {nl} Oh, so you're the Revelator. I really wanted to meet you. {nl}
 QUEST_LV_0100_20151102_010630	I heard you successfully removed the seal at Pasaga Cliff.{nl}Now go get the next step from my brothers at the Pillars of the Courtyard.
